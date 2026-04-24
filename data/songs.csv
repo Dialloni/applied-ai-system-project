@@ -1,0 +1,21 @@
+id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness,popularity,release_decade,detailed_mood_tags
+1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18,85,2020s,uplifting;nostalgic;euphoric
+2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71,72,2020s,nostalgic;dreamy;melancholic
+3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10,68,2010s,aggressive;energetic;rebellious
+4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86,78,2020s,peaceful;nostalgic;dreamy
+5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05,81,2020s,energetic;motivational;euphoric
+6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92,64,2010s,peaceful;ethereal;meditative
+7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89,76,2000s,nostalgic;sophisticated;melancholic
+8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22,71,2010s,atmospheric;nostalgic;mysterious
+9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78,74,2020s,peaceful;studious;dreamy
+10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35,79,2010s,uplifting;romantic;nostalgic
+11,Crown Me,Stealth Monarch,hip-hop,confident,0.87,138,0.71,0.91,0.05,77,2020s,energetic;confident;rebellious
+12,Sonata in Silence,Ivory Keys,classical,peaceful,0.20,52,0.50,0.25,0.97,69,1990s,elegant;sophisticated;peaceful
+13,Back Porch Breeze,The Dusty Pines,country,happy,0.57,94,0.82,0.63,0.74,73,2010s,nostalgic;romantic;uplifting
+14,Velvet Underground,Sable & Smoke,r&b,romantic,0.54,87,0.65,0.76,0.29,75,2020s,romantic;sophisticated;smooth
+15,Shatterpoint,Iron Veil,metal,aggressive,0.96,170,0.28,0.44,0.02,66,2010s,aggressive;rebellious;intense
+16,Wildflower Lament,Clara Birch,folk,melancholic,0.30,80,0.38,0.42,0.90,70,2010s,melancholic;nostalgic;emotional
+17,Fuego,Ritmo Libre,reggaeton,euphoric,0.86,97,0.89,0.95,0.05,84,2020s,energetic;euphoric;danceable
+18,Midnight Delta,Ray Hollow,blues,sad,0.36,72,0.26,0.45,0.78,68,1990s,melancholic;emotional;soulful
+19,Neon Pulse,Grid Surge,edm,intense,0.94,128,0.73,0.92,0.04,83,2010s,energetic;euphoric;intense
+20,Sakura Pop,YUME,k-pop,happy,0.79,120,0.85,0.84,0.12,82,2020s,uplifting;euphoric;energetic

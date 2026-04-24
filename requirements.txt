@@ -1,0 +1,7 @@
+pandas
+pytest
+streamlit
+tabulate
+openai
+python-dotenv
+anthropic
