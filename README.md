@@ -10,6 +10,7 @@ pinned: false
 ---
 
 # VibeFinder — AI-Enhanced Music Recommender
+## 🎵 [Live Demo → huggingface.co/spaces/dialloni/VibeFinder](https://huggingface.co/spaces/dialloni/VibeFinder)
 
 ## Original Project
 
